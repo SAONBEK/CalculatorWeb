@@ -1,0 +1,16 @@
+.navbar-brand img{
+    width: 60px;
+    height: 60px;
+}
+.asos{
+    width: 90%;
+}
+.nav-item{
+    margin-right: 40px;
+}
+.navbar-nav{
+    font-size: small;
+}
+.mx-auto{
+    color: #343333;
+}
